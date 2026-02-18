@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "会心劇",
+  "base_artist": "Eve",
+  "createdAt": "2026-02-18T19:54:04.841611Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "会心劇",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_会心劇_Eve.txt"
+    }
+  ]
+}
